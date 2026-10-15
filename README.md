@@ -26,7 +26,7 @@ Developed by: Sre Vishnu Priyar L N
 ##B=np.array([5,-3])
 ##C=np.linalg.solve(A,B)
 ##print(C)
-/*
+*/
 ## Output:
 <img width="1497" height="913" alt="image" src="https://github.com/user-attachments/assets/04227702-9785-46e9-8ae5-9fdf0bfdb29c" />
 
